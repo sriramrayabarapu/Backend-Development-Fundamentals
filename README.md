@@ -133,12 +133,11 @@ Save screenshots of your working routes in the `screenshots/` folder.
 
 ### Time Route
 
-![Time Route](screenshots/time.png)
+![Screenshot](./Screenshot%202026-10-18%20211557.png)
 
 ### 404 Route
 
-![404 Route](screenshots/404.png)
-
+![Screenshot](./Screenshot%202026-10-18%20211855.png )
 ## Deployment
 
 The application can be deployed using a Node.js-compatible hosting service such as Render or Railway.
