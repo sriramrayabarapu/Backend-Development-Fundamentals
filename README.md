@@ -125,11 +125,11 @@ Save screenshots of your working routes in the `screenshots/` folder.
 
 ### Home Route
 
-![Home Route](screenshots/home.png)
+![Screenshot](./Screenshot%202026-10-18%20211536.png)
 
 ### About Route
 
-![About Route](screenshots/about.png)
+![Screenshot](./Screenshot%202026-10-18%20211548.png)
 
 ### Time Route
 
