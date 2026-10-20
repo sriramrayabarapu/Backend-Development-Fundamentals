@@ -1,5 +1,8 @@
 # Lab 1: Node.js and Express Server
 
+Live deployment URL: https://backend-development-fundamentals.vercel.app/
+
+
 **Subject:** Backend Development Fundamentals  
 **Year/Term:** Year II, Term II  
 **University:** Aurora Deemed to be University  
